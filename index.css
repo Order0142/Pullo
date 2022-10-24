@@ -27,14 +27,14 @@ header section{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: %;
-    
 }
+
 #firstdiv img {
-    width: 70%;
+    width: 60%;
 }
 .nav a {
     color: white;
     font-family: 'Poppins', sans-serif;
-    padding: 10px;
+    padding: 15px;
+    font-size: 1em;
 }
