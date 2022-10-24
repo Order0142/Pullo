@@ -6,8 +6,21 @@
 body {
     box-sizing: border-box;
     font-size: 100%;
-
+    width: 100%;
 }
+
 header section{
     background-image: url(./images/banner.png);
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+#firstdiv{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
 }
