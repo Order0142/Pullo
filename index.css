@@ -8,19 +8,27 @@ body {
     font-size: 100%;
     width: 100%;
 }
-
+a {
+    text-decoration: none;
+}
 header section{
     background-image: url(./images/banner.png);
 }
 .flex{
     display: flex;
     flex-direction: row;
+    justify-content: center;
     width: 100%;
+}
+.fheader{
+    padding-top: 25px;
 }
 #firstdiv{
     display: flex;
     justify-content: space-between;
-    width: 50%;
+    align-items: center;
+    width: 40%;
 }
-
+#firstdiv img {
+    width: 12%;
 }
