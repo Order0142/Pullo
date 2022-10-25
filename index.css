@@ -22,9 +22,6 @@ header {
     flex-direction: row;
     justify-content: center;   
 }
-a:hover {
-    color: #db5660;
-}
 .fheader{
     padding-top: 25px;
 }
@@ -44,7 +41,7 @@ a:hover {
     font-size: 1em;
 }
 #section_two {
-    padding-top: 8vh;
+    padding-top: 7vh;
     display: flex;
     justify-content: right;
     width: 100%;
@@ -52,11 +49,11 @@ a:hover {
 }
 
 .bannertxt {
-    font-size: 2.3em;
+    font-size: 2em;
     color: #db5660;
 }
 .menstxt {
-    font-size: 3.2em;
+    font-size: 3em;
     color: #fdfcfc;
 }
 .loremtxt {
@@ -65,20 +62,27 @@ a:hover {
     
 }
 .runningshoe {
-    width: 60%;
+    width: 65%;
     position: relative;
     right: -20vw;
 }
 .loremsec {
-    width: 30%;
+    width: 60%;
     position: absolute;
     left: 20vw;
-    
+    top: 8vw;
 }
 button {
-    padding: 10px 15px;
+    padding: 15px 50px;
     background-color: #db5660;
     color: white;
     border-radius: 5px;
     margin-top: 10px;
+}
+button:hover {
+    background-color: white;
+    color: darkslategray;
+}
+.fheader .nav a:hover {
+    color: #db5660;
 }
