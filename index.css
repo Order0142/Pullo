@@ -19,7 +19,7 @@ header section{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    width: 100%;
+    
 }
 .fheader{
     padding-top: 25px;
@@ -41,20 +41,21 @@ header section{
 }
 #section_two {
     padding-top: 8vh;
-}
-.bannertxt {
+    display: flex;
+    justify-content: right;
     width: 100%;
+}
+
+.bannertxt {
     font-size: 30pt;
     color: #db5660;
 }
 .menstxt {
-    width: 100%;
     font-size: 39pt;
     color: #fdfcfc;
     line-height: 40px;
 }
 .loremtxt {
-    width: 100%;
     font-size: 13pt;
     color: #fefefe;
     margin-left: 0px;
