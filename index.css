@@ -57,7 +57,7 @@ header {
     color: #fdfcfc;
 }
 .loremtxt {
-    font-size: 0.9em;
+    font-size: 0.8em;
     color: #fefefe;
     
 }
@@ -67,10 +67,10 @@ header {
     right: -20vw;
 }
 .loremsec {
-    width: 60%;
+    width: 50%;
     position: absolute;
-    left: 20vw;
-    top: 8vw;
+    left: 16vw;
+    top: 6vw;
 }
 button {
     padding: 15px 50px;
