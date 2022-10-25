@@ -46,22 +46,37 @@ header {
     display: flex;
     justify-content: right;
     width: 100%;
+    position: relative;
 }
 
 .bannertxt {
-    font-size: 30pt;
+    font-size: 2.3em;
     color: #db5660;
 }
 .menstxt {
-    font-size: 39pt;
+    font-size: 3.2em;
     color: #fdfcfc;
-    line-height: 40px;
 }
 .loremtxt {
-    font-size: 13pt;
+    font-size: 0.9em;
     color: #fefefe;
-    margin-left: 0px;
+    
 }
 .runningshoe {
-    width: 80%;
+    width: 60%;
+    position: relative;
+    right: -20vw;
+}
+.loremsec {
+    width: 30%;
+    position: absolute;
+    left: 20vw;
+    
+}
+button {
+    padding: 10px;
+    background-color: #db5660;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
 }
