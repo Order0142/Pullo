@@ -38,3 +38,9 @@ header section{
     padding: 15px;
     font-size: 1em;
 }
+#section_two {
+    padding-top: 8vh;
+}
+.runningshoe{
+    width: 70%;
+}
