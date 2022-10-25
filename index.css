@@ -20,8 +20,10 @@ header {
 .flex{
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    
+    justify-content: center;   
+}
+a:hover {
+    color: #db5660;
 }
 .fheader{
     padding-top: 25px;
@@ -74,7 +76,7 @@ header {
     
 }
 button {
-    padding: 10px;
+    padding: 10px 15px;
     background-color: #db5660;
     color: white;
     border-radius: 5px;
