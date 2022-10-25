@@ -7,6 +7,7 @@ body {
     box-sizing: border-box;
     font-size: 100%;
     width: 100%;
+    font-family: 'Poppins', sans-serif;
 }
 a {
     text-decoration: none;
@@ -41,6 +42,23 @@ header section{
 #section_two {
     padding-top: 8vh;
 }
-.runningshoe{
+.bannertxt {
     width: 100%;
+    font-size: 30pt;
+    color: #db5660;
+}
+.menstxt {
+    width: 100%;
+    font-size: 39pt;
+    color: #fdfcfc;
+    line-height: 40px;
+}
+.loremtxt {
+    width: 100%;
+    font-size: 13pt;
+    color: #fefefe;
+    margin-left: 0px;
+}
+.runningshoe {
+    width: 70%;
 }
