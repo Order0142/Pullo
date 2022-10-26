@@ -138,10 +138,15 @@ p {
     font-size: 1.2em;
 }
 .aboutsec {
-    width: 83%;
+    width: 100%;
 }
 .about1 {
     width: 50%;
+    background-color: #ffffff;
+    height: 50vh;
+    margin-left: px;
+    box-shadow: 0px 0px 10px 0px;
+    position: relative;
     z-index: 1;
     
 }
@@ -152,13 +157,13 @@ p {
 }
 .about2 {
     width: 50%;
+    background-image: url(./images/about-img2.png);
+    height: 50vh;
+    box-shadow: 0px 0px 10px 0px;
+    margin-left: -50px;
+    margin-top: 74px;
 }
-.about2 img {
-    width: 130%;
-    margin-top: 20vh;
-    padding-right: 7vh;
-    position: relative;
-}
+
 .shoe_img2 {
     height: 30%;
     position: absolute;
