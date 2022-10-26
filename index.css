@@ -169,7 +169,6 @@ p {
     color: #ffffff;
     display: inline-block;
     position: absolute;
-    top: 137.5vh;
-    left: 7vw;
+    margin-top: -42.5vw;
     z-index: 1;
 }
