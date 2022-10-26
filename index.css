@@ -15,7 +15,8 @@ a {
 }
 header {
     background-image: url(./images/banner.png);
-    background-size: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
     padding: 20px 0px;
     width: 100%;
     height:auto;
@@ -46,12 +47,12 @@ header {
     padding: 15px;
     font-size: 1.2em;
 }
-#section_two {
-    padding-top: 7vh;
+.scontainer {
+    padding-top: 2vh;
     display: flex;
+    flex-direction: row;
     justify-content: right;
     width: 100%;
-    position: relative;
 }
 
 .bannertxt {
@@ -67,16 +68,19 @@ header {
     color: #fefefe;
     
 }
-.runningshoe {
-    width: 65%;
-    position: relative;
-    right: -20vw;
+.taital {
+    width: 20%;
+}
+#rssec {
+    width: 45%;
 }
 .loremsec {
-    width: 50%;
-    position: absolute;
-    left: 16vw;
-    top: 6vw;
+    width: 40%;
+    margin-top: 8vh;
+    margin-left: -3vw;
+}
+.runningshoe {
+    width: 90%;
 }
 button {
     padding: 15px 50px;
@@ -92,3 +96,4 @@ button:hover {
 .fheader .nav a:hover {
     color: #db5660;
 }
+    /*
