@@ -140,10 +140,12 @@ p {
 .about1 {
     width: 50%;
     z-index: 1;
+    
 }
 .about1 img{
     width: 130%;
     padding-left: 3vw;
+    position: relative;   
 }
 .about2 {
     width: 50%;
@@ -153,4 +155,11 @@ p {
     margin-top: 20vh;
     padding-right: 7vh;
     position: relative;
+}
+.shoe_img2 {
+    height: 30%;
+    position: absolute;
+    right: 15vw;
+    margin-top: 10vw;
+    
 }
