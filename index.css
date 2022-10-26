@@ -14,6 +14,9 @@ body {
 a {
     text-decoration: none;
 }
+.paddingsides {
+    padding: 7vw 5vw 0 6vw
+}
 header {
     background-image: url(./images/banner.png);
     background-size: 100%;
@@ -122,4 +125,12 @@ button:hover {
 .fheader .nav a:hover {
     color: #db5660;
 }
-    /*
+h1 {
+    font-size: 2em;
+    font-weight: bolder;
+    margin-bottom: 2vw;
+    
+}
+p {
+    font-size: 1.2em;
+}
