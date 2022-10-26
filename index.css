@@ -128,9 +128,29 @@ button:hover {
 h1 {
     font-size: 2em;
     font-weight: bolder;
-    margin-bottom: 2vw;
+    margin-bottom: 1vw;
     
 }
 p {
     font-size: 1.2em;
+}
+.aboutsec {
+    width: 83%;
+}
+.about1 {
+    width: 50%;
+    z-index: 1;
+}
+.about1 img{
+    width: 130%;
+    padding-left: 3vw;
+}
+.about2 {
+    width: 50%;
+}
+.about2 img {
+    width: 130%;
+    margin-top: 20vh;
+    padding-right: 7vh;
+    position: relative;
 }
