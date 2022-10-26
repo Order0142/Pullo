@@ -57,6 +57,9 @@ header {
     padding: 15px;
     font-size: 1.09em;
 }
+.nav a:hover {
+    color: #db5660;
+}
 .scontainer {
     padding-top: 2vh;
     display: flex;
