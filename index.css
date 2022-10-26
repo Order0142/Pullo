@@ -22,17 +22,14 @@ header {
     flex-direction: row;
     justify-content: center;   
 }
-.fheader{
-    padding-top: 25px;
-}
+
 #firstdiv{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    width: 25%;
 }
-
-#firstdiv img {
-    width: 70%;
+#secdiv {
+    display: flex;
+    width: 75%;
 }
 .nav a {
     color: white;
