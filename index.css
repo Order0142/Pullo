@@ -121,7 +121,7 @@ header {
 }
 button {
     padding: 15px 50px;
-    background-color: #db5660;
+    background-color:#ff4e5b;
     color: white;
     border-radius: 5px;
     margin-top: 10px;
@@ -129,6 +129,11 @@ button {
 .more_bt{
     background-color: white;
     color: #ff4e5b;
+    margin-left: 10px;
+}
+.more_bt:hover {
+    background-color: #ff4e5b;
+    color: white;
 }
 button:hover {
     background-color: white;
