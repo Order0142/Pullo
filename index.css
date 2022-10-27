@@ -15,7 +15,7 @@ a {
     text-decoration: none;
 }
 .paddingsides {
-    padding: 7vw 7vw 0 8vw
+    padding: 7vw 10vw 0 10vw
 }
 header {
     background-image: url(./images/banner.png);
@@ -151,17 +151,19 @@ h1 {
 p {
     font-size: 0.9em;
 }
-.aboutsec {
-    width: 100%;
+.aboutsec1 {
+    width: 50%;
+}
+.aboutsec2{
+    width: 45%;
 }
 .about1 {
-    width: 40%;
+    width: 100%;
     background-color: #ffffff;
-    height: 60vh;
-    margin-left: 11vw;
+    height: 80vh;
+    margin-left: 4vw;
     box-shadow: 0px 0px 10px 0px;
-    position: absolute;
-    z-index: 1;    
+    z-index: 0;    
 }
 .about1_img{
     width: 60%;
@@ -170,14 +172,15 @@ p {
 .about2 {
     width: 100%;
     background-image: url(./images/about-img2.png);
-    height: 60vh;
+    height: 80vh;
     box-shadow: 0px 0px 10px 0px;
-    margin-right: 5vw;
+    margin-right: vw;
     margin-top: 12vh;
+    z-index: ;
 }
 
 .shoe_img2 {
-    height: 35%;
+    height: 25%;
     position: absolute;
     right: 15vw;
     margin-top: 4vw;   
@@ -188,7 +191,7 @@ p {
     background-color: black;
     color: #ffffff;
     margin-top:-0.1vw;
-    margin-left: -5vw;
+    margin-left: -4vw;
     z-index: 1;
 }
 .seemore_btn {
@@ -206,4 +209,11 @@ p {
     padding: 0px 7px;
     display: inline-block;
     margin-left: 15vw;
+}
+.mensports2{
+    border-bottom: 1px solid #000;
+    padding: 0px 7px;
+    display: inline-block;
+    margin-left: 15vw;
+    margin-top: 40vw;
 }
