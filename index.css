@@ -15,7 +15,7 @@ a {
     text-decoration: none;
 }
 .paddingsides {
-    padding: 7vw 5vw 0 6vw
+    padding: 7vw 7vw 0 8vw
 }
 header {
     background-image: url(./images/banner.png);
@@ -141,10 +141,10 @@ p {
     width: 100%;
 }
 .about1 {
-    width: 50%;
+    width: 55%;
     background-color: #ffffff;
-    height: 50vh;
-    margin-left: px;
+    height: 55vh;
+    margin-left: 60px;
     box-shadow: 0px 0px 10px 0px;
     position: relative;
     z-index: 1;
@@ -156,12 +156,12 @@ p {
     position: relative;   
 }
 .about2 {
-    width: 50%;
+    width: 55%;
     background-image: url(./images/about-img2.png);
-    height: 50vh;
+    height: 55vh;
     box-shadow: 0px 0px 10px 0px;
-    margin-left: -50px;
-    margin-top: 74px;
+    margin-left: -70px;
+    margin-top: 15vh;
 }
 
 .shoe_img2 {
@@ -172,11 +172,10 @@ p {
 }
 .h3border {
     border: 1px solid ;
-    padding: 5px 15px;
+    padding: 15px 30px;
     background-color: black;
     color: #ffffff;
-    display: inline-block;
-    position: absolute;
-    margin-top: -42.5vw;
+    margin-top: -0.5vw;
+    margin-left: -5vw;
     z-index: 1;
 }
