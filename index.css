@@ -168,7 +168,7 @@ p {
     height: 60vh;
     margin-left: 4vw;
     box-shadow: 0px 0px 10px 0px;
-    z-index: 0;    
+    z-index: ;    
 }
 .about1_img{
     width: 65%;
@@ -181,7 +181,6 @@ p {
     box-shadow: 0px 0px 10px 0px;
     margin-right: vw;
     margin-top: vh;
-    z-index: ;
 }
 
 .shoe_img2 {
