@@ -32,6 +32,11 @@ header {
     justify-content: center;
     align-items: center;
 }
+.fcoln{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 .fcontainer {
     padding-left: 20px;
     padding-right: 20px;
@@ -141,27 +146,22 @@ p {
     width: 100%;
 }
 .about1 {
-    width: 55%;
+    width: 40%;
     background-color: #ffffff;
-    height: 55vh;
-    margin-left: 60px;
+    height: 60vh;
+    margin-left: 11vw;
     box-shadow: 0px 0px 10px 0px;
-    position: relative;
+    position: absolute;
     z-index: 1;
-    
-}
-.about1 img{
-    width: 130%;
-    padding-left: 3vw;
-    position: relative;   
+     
 }
 .about2 {
-    width: 55%;
+    width: 100%;
     background-image: url(./images/about-img2.png);
-    height: 55vh;
+    height: 60vh;
     box-shadow: 0px 0px 10px 0px;
-    margin-left: -70px;
-    margin-top: 15vh;
+    margin-right: 5vw;
+    margin-top: 12vh;
 }
 
 .shoe_img2 {
@@ -171,11 +171,22 @@ p {
     margin-top: 10vw;   
 }
 .h3border {
-    border: 1px solid ;
+    border: 1px none ;
     padding: 15px 30px;
     background-color: black;
     color: #ffffff;
-    margin-top: -0.5vw;
+    margin-top:-0.1vw;
     margin-left: -5vw;
     z-index: 1;
+}
+.seemore_btn {
+    width: 32%;
+    height: 50px;
+    color: #ffffff;
+    background-color: #ff4e5b;
+    color: #ffffff;
+    font-size: 16pt;
+    margin-top: 65vh;
+    margin-left: -35vh;
+    
 }
