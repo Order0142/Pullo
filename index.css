@@ -126,6 +126,10 @@ button {
     border-radius: 5px;
     margin-top: 10px;
 }
+.more_bt{
+    background-color: white;
+    color: #ff4e5b;
+}
 button:hover {
     background-color: white;
     color: darkslategray;
