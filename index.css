@@ -135,9 +135,9 @@ button {
     background-color: #ff4e5b;
     color: white;
 }
-button:hover {
+.buy_bt:hover {
     background-color: white;
-    color: darkslategray;
+    color: #ff4e5b;
 }
 .fheader .nav a:hover {
     color: #db5660;
@@ -149,7 +149,7 @@ h1 {
     
 }
 p {
-    font-size: 1.2em;
+    font-size: 0.9em;
 }
 .aboutsec {
     width: 100%;
@@ -161,8 +161,11 @@ p {
     margin-left: 11vw;
     box-shadow: 0px 0px 10px 0px;
     position: absolute;
-    z-index: 1;
-     
+    z-index: 1;    
+}
+.about1_img{
+    width: 60%;
+    margin-left: 8vw;
 }
 .about2 {
     width: 100%;
@@ -174,10 +177,10 @@ p {
 }
 
 .shoe_img2 {
-    height: 30%;
+    height: 35%;
     position: absolute;
     right: 15vw;
-    margin-top: 10vw;   
+    margin-top: 4vw;   
 }
 .h3border {
     border: 1px none ;
@@ -196,6 +199,11 @@ p {
     color: #ffffff;
     font-size: 16pt;
     margin-top: 65vh;
-    margin-left: -35vh;
-    
+    margin-left: -35vh;  
+}
+.mensports{
+    border-bottom: 1px solid #000;
+    padding: 0px 7px;
+    display: inline-block;
+    margin-left: 15vw;
 }
