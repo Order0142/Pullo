@@ -239,3 +239,12 @@ p {
 .tsection{
   margin-top: 5vh;
 }
+.racingBoot {
+  width: 100%;
+  background-color: #eae7e7;
+  margin-top: 5vh;
+}
+.shoe {
+  width: 70%;
+  padding: 50px 0px;
+}
