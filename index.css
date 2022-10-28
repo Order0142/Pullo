@@ -248,3 +248,17 @@ p {
   width: 70%;
   padding: 50px 0px;
 }
+.joging {
+  margin-top: -15vh;
+}
+.joging h1 {
+  font-size: 3em;
+  font-weight:bolder;
+  line-height: 65px;
+}
+.seemore_jog {
+  border: none;
+  background-color: #ed2540;
+  border-radius: 0;
+  font-size: 1em;
+}
