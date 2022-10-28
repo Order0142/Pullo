@@ -277,3 +277,13 @@ p {
   padding: 20px 0;
   font-size: 30px;
 }
+.grid_container .grid_buynow{
+  background-color: #ed2540;
+  grid-column-start: 1;
+  grid-column-end: 4;
+
+}
+.gridbuynow {
+  background-color: #000;
+  border-radius: 0;
+}
