@@ -262,14 +262,17 @@ p {
   border-radius: 0;
   font-size: 1em;
 }
-.gridcontainer{
+.grid_container{
   display: grid;
   grid-template-columns: auto auto auto;
-  grid-gap: 20px;
+  grid-gap: 10px;
   background-color: #ed2540;
+  margin-top: 5em;
+  padding: 30px 30px;
 }
-.gridcontainer > div{
-  background-color: rgba(255, 255, 255, 0.8);
+
+.grid_container > div{
+  background-color: white ;
   text-align: center;
   padding: 20px 0;
   font-size: 30px;
