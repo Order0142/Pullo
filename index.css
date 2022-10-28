@@ -15,7 +15,7 @@ a {
   text-decoration: none;
 }
 .paddingsides {
-  padding: 7vw 12vw 0 12vw;
+  padding: 5vw 10vw 0 10vw;
 }
 header {
   background-image: url(./images/banner.png);
@@ -158,13 +158,13 @@ p {
 }
 .new {
   border: 1px none;
-  padding: 10px 25px;
+  padding: 8px 25px;
   background-color: black;
   color: #ffffff;
   z-index: 1;
   position: absolute;
   top: 7.5vh;
-  left: -15vh;
+  left: -12vh;
 }
 .card {
   background-color: #ffffff;
@@ -203,6 +203,7 @@ p {
 }
 .card1shoe{
   margin-top: 2em;
+  
 }
 .card2 p small {
     display: block;
@@ -224,14 +225,17 @@ p {
   margin-left: 3em;
 }
 .seemore_btn {
-  width: 32%;
   color: #ffffff;
   background-color: #ff4e5b;
   color: hsl(0, 0%, 100%);
   font-size: 1em;
+  padding: 5px 17px;
   position: absolute;
   bottom: 0;
-  
-  
+  left: -5vw;
 }
+/*End of second section*/
 
+.tsection{
+  margin-top: 5vh;
+}
