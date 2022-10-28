@@ -262,3 +262,9 @@ p {
   border-radius: 0;
   font-size: 1em;
 }
+.gridcontainer{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 20px;
+  background-color: #ed2540;
+}
