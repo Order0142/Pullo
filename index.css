@@ -315,14 +315,22 @@ p {
   padding: 20px;
 }
 
-input[type=text], textarea{
+input, textarea {
   margin: 5px;
   padding: 12px;
   border: 1px solid #ccc;
 }
+.submit{
+  background-color: #ed2540;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+}
 .ourshop {
-  width: 50%;
+  width: 60%;
   max-width: 50%;
-  height: auto;
+  height: 80vh;
   background-image: url(./images/shop-banner.png);
+  background-position: cover;
 }
