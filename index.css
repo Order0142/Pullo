@@ -306,3 +306,7 @@ p {
   font-size: 0.5em;
   margin-bottom: 10px;
 }
+.amount{
+  font-size: 1em;
+  color: #ed2540;
+}
