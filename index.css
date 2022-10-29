@@ -309,3 +309,8 @@ p {
   font-size: 1em;
   color: #ed2540;
 }
+.formcontainer {
+  border-radius: 5px;
+  background-color: #2c2a2a;
+  padding: 20px;
+}
