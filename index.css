@@ -320,3 +320,9 @@ input[type=text], textarea{
   padding: 12px;
   border: 1px solid #ccc;
 }
+.ourshop {
+  width: 50%;
+  max-width: 50%;
+  height: auto;
+  background-image: url(./images/shop-banner.png);
+}
