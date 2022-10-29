@@ -268,7 +268,7 @@ p {
   grid-gap: 10px;
   background-color: #ed2540;
   margin-top: 5em;
-  padding: 30px 30px;
+  padding: 10vh 15vw;
 }
 
 .grid_container > div{
@@ -286,4 +286,8 @@ p {
 .gridbuynow {
   background-color: #000;
   border-radius: 0;
+}
+.grid1 {
+  justify-content: space-between;
+  padding: 5px;
 }
