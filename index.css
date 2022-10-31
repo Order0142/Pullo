@@ -302,29 +302,17 @@ p {
   margin-top: 120px;
 }
 .bestshoe {
-  font-size: 0.5em;
-  margin-bottom: 10px;
+font-size: 0.5em;
+margin-bottom: 10px;
 }
 .amount{
   font-size: 1em;
   color: #ed2540;
 }
 .contact{
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
-.CNcontainer {
-  justify-content: left;
-  width: 100%;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-.holderFO{
-  flex-wrap: wrap;
-  margin-left: -15px;
-  margin-right: -15px;
-}
-/*
 .formsec{ 
   width: 50%;}
 
@@ -365,9 +353,3 @@ input, textarea {
   padding: 37vh 0;
   margin-left: 0vw;
 }
-.ourshop {
-  width: 80%;
-  height: 80vh;
-  background-image: url(./images/shop-banner.png);
-  background-position: cover;
-*/
