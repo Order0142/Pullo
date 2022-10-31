@@ -309,14 +309,20 @@ p {
   font-size: 1em;
   color: #ed2540;
 }
+.contact{
+  padding-right: 0;
+}
+.formsec{ 
+  width: 50%;}
+
 .formcontainer {
-  width: 50%;
+  width: 80%;
   background-color: #2c2a2a;
   padding: 20px;
 }
 
 input, textarea {
-  width: 93%;
+  width: 90%;
   margin: 10px;
   padding: 12px;
   border: 1px solid #ccc;
@@ -332,14 +338,22 @@ input, textarea {
 }
 .sendbtn{
   width: 30%;
-  background-color: #ed2540;
+  background-color: #ff4e5b;
   color: white;
   padding: 12px;
   border: none;
+  font-size: 1.3em;
+}
+.Ourshopsec{
+  max-width: 50%;
+  width: 100%;
+  height: auto;
+  background-image: url(./images/shop-banner.png);
+  padding: 37vh 0;
+  margin-left: 0vw;
 }
 .ourshop {
-  width: 60%;
-  max-width: 50%;
+  width: 80%;
   height: 80vh;
   background-image: url(./images/shop-banner.png);
   background-position: cover;
