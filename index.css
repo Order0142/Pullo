@@ -310,13 +310,14 @@ p {
   color: #ed2540;
 }
 .formcontainer {
+  width: 50%;
   background-color: #2c2a2a;
   padding: 20px;
 }
 
 input, textarea {
-  width: 86%;
-  margin: 5px;
+  width: 93%;
+  margin: 10px;
   padding: 12px;
   border: 1px solid #ccc;
   resize: vertical;
