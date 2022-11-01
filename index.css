@@ -426,3 +426,12 @@ p{
   border: none;
   border-radius: 0;
 }
+.copyright{
+  padding: 15px 0px;
+  background-color:#ff4e5b;
+  color: white;
+}
+h4 {
+  font-weight: 400;
+  text-align: center;
+}
