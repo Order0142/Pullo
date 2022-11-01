@@ -357,4 +357,12 @@ input, textarea {
   background-image: url(./images/shop-banner.png);
   padding: 37vh 0;
   margin-left: -6vw;
+  position: relative;
+}
+.ourshop{
+  position: absolute;
+  background-color: white;
+  padding: 15px 10vw;
+  left: 15vw;
+  font-size: 1.5em;
 }
