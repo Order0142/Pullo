@@ -373,7 +373,7 @@ input, textarea {
  margin-left: -5vw;
 }
 .footerlogo{
-  padding-top: 3vh;
+  padding-top: vh;
 }
 .telephone{
   padding-left: 30px;
@@ -397,4 +397,17 @@ input, textarea {
 }
 .mar{
   margin-left: 2vw;
+}
+.extramar{
+  margin-right: 5vw;
+}
+.contactfooter{
+  justify-content: space-between;
+  width: 70%;
+  margin-left: 15vw;
+  margin-top: 5vh;
+}
+h2{
+  color: white;
+  font-weight: 400;
 }
